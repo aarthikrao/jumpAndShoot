@@ -1,3 +1,3 @@
 # Jump and Shoot Game engine
 
-[Rulebook](https://github.com/aarthikrao/jumpAndShoot)
+[Rulebook](aarthikrao.github.io/jumpAndShoot.html)
